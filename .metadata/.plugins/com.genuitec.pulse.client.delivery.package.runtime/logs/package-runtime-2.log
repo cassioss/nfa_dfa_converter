@@ -1,0 +1,6 @@
+Abr 29, 2014 2:10:37 PM com.genuitec.pulse.client.deliverypackage.runtime.internal.Activator initializeLoggers
+INFO: Package starting up at Tue Apr 29 14:10:37 BRT 2014
+Abr 29, 2014 2:11:15 PM com.objectaid.uml.model.manage.DiagramManager getFactories
+INFO: com.objectaid.uml.diagramFactories[ucls]: com.objectaid.uml.cls.model.ClassDiagramFactory@555d3e1a
+Abr 29, 2014 2:11:15 PM com.objectaid.uml.model.manage.DiagramManager getFactories
+INFO: com.objectaid.uml.diagramFactories[useq]: com.objectaid.uml.seq.model.SequenceDiagramFactory@4a7795ce

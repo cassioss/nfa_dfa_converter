@@ -1,0 +1,16 @@
+package prova2;
+
+import java.util.Random;
+
+public interface ContaBancaria {
+
+	private double saldo;
+	private String pessoa;
+	private int id;
+
+	public double getSaldo();
+
+	public int getId();
+
+	public String getPessoa();
+}

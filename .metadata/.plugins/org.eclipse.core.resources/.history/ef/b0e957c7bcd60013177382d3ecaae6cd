@@ -1,0 +1,7 @@
+package prova2;
+
+public class ContaDummy extends ContaBancaria {
+	public ContaDummy (String pessoa){
+		
+	}
+}

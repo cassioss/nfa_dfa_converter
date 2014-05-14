@@ -1,0 +1,8 @@
+Mai 07, 2014 10:21:48 AM com.genuitec.pulse.client.deliverypackage.runtime.internal.Activator initializeLoggers
+INFO: Package starting up at Wed May 07 10:21:48 BRT 2014
+Mai 07, 2014 10:21:52 AM com.genuitec.pulse.client.deliverypackage.runtime.UpdatesService checkForWorkspaceUpdates
+INFO: Latest version of package has already been enabled in the workspace; check finished in 15ms
+Mai 07, 2014 10:21:54 AM com.objectaid.uml.model.manage.DiagramManager getFactories
+INFO: com.objectaid.uml.diagramFactories[ucls]: com.objectaid.uml.cls.model.ClassDiagramFactory@683e74b6
+Mai 07, 2014 10:21:54 AM com.objectaid.uml.model.manage.DiagramManager getFactories
+INFO: com.objectaid.uml.diagramFactories[useq]: com.objectaid.uml.seq.model.SequenceDiagramFactory@623fe7a1

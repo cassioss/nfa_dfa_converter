@@ -1,0 +1,21 @@
+package prova2;
+
+public class ContaBancaria {
+
+	protected double saldo;
+	protected String dono;
+	protected int conta_id;
+
+	public double getSaldo(){
+		return saldo;
+	}
+
+	public int getId(){
+		return conta_id;
+	}
+
+	public String getDono(){
+		return dono;
+	}
+	
+}

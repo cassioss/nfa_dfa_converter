@@ -1,6 +1,8 @@
-Abr 29, 2014 2:10:37 PM com.genuitec.pulse.client.deliverypackage.runtime.internal.Activator initializeLoggers
-INFO: Package starting up at Tue Apr 29 14:10:37 BRT 2014
-Abr 29, 2014 2:11:15 PM com.objectaid.uml.model.manage.DiagramManager getFactories
-INFO: com.objectaid.uml.diagramFactories[ucls]: com.objectaid.uml.cls.model.ClassDiagramFactory@555d3e1a
-Abr 29, 2014 2:11:15 PM com.objectaid.uml.model.manage.DiagramManager getFactories
-INFO: com.objectaid.uml.diagramFactories[useq]: com.objectaid.uml.seq.model.SequenceDiagramFactory@4a7795ce
+Mai 08, 2014 11:12:34 AM com.genuitec.pulse.client.deliverypackage.runtime.internal.Activator initializeLoggers
+INFO: Package starting up at Thu May 08 11:12:34 BRT 2014
+Mai 08, 2014 11:12:38 AM com.genuitec.pulse.client.deliverypackage.runtime.UpdatesService checkForWorkspaceUpdates
+INFO: Latest version of package has already been enabled in the workspace; check finished in 31ms
+Mai 08, 2014 11:12:39 AM com.objectaid.uml.model.manage.DiagramManager getFactories
+INFO: com.objectaid.uml.diagramFactories[ucls]: com.objectaid.uml.cls.model.ClassDiagramFactory@149dc93a
+Mai 08, 2014 11:12:39 AM com.objectaid.uml.model.manage.DiagramManager getFactories
+INFO: com.objectaid.uml.diagramFactories[useq]: com.objectaid.uml.seq.model.SequenceDiagramFactory@5eb18ba3

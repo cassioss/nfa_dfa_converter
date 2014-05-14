@@ -1,0 +1,33 @@
+package prova2;
+
+import java.util.Random;
+
+public class ContaBancaria {
+	
+	private double saldo;
+	private String pessoa;
+	private int id;
+
+	public double getSaldo() {
+		return saldo;
+	}
+	
+	public int getId() {
+		return id;
+	}
+	
+	public String getPessoa(){
+		return pessoa;
+	}
+
+	public ContaBancaria (double saldo, String pessoa){
+		Random r = new Random();
+		this.id = r.nextInt();
+		this.saldo = saldo;
+		this.pessoa = pessoa;
+	}
+	
+	
+	
+
+}

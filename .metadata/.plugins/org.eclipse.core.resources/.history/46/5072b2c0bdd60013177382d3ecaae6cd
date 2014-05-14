@@ -1,0 +1,12 @@
+package prova2;
+
+import java.util.Random;
+
+public class ContaDummy extends ContaBancaria {
+	public ContaDummy (String pessoa){
+		dono = pessoa;
+		saldo = 0.0;
+		Random r = new Random();
+		conta_id = r.nextInt();
+	}
+}
